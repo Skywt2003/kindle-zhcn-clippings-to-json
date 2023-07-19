@@ -1,0 +1,11 @@
+{
+  "name": "kindle-zhcn-clippings-to-json",
+  "version": "1.0.0",
+  "description": "Convert zh-cn Kindle MyClippings.txt into a JSON object.",
+  "main": "index.js",
+  "author": {
+    "name": "SkyWT",
+    "url": "https://skywt.cn"
+  },
+  "license": "MIT"
+}
