@@ -27,7 +27,7 @@
 ## Usage
 
 ```js
-const toObject = require("zhcn-kindle-clippings-to-json");;
+import { toObject } from 'kindle-zhcn-clippings-to-json';
 console.log(JSON.stringify(toObject(MyClippings)));
 ```
 
